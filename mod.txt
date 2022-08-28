@@ -1,1 +1,2 @@
 search move-result v0 😁ko😁 invoke-virtual ke niche se 😁const/4 v0, 0x1🌍 karna hota hai MainActivity.smali ✍️
+anroid:id="@id/btn jis smali me rhega waha
